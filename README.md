@@ -5,10 +5,15 @@ Este projeto visa criar um modelo de machine learning para prever se um consumid
 
 **Dados**
 Os dados utilizados neste projeto incluem informações sobre clientes, como:
+
 ID: Número do cliente
+
 CODE_GENDER: Gênero
+
 FLAG_OWN_CAR: Possui carro
+
 FLAG_OWN_REALTY: Possui imóvel
+
 CNT_CHILDREN: Número de filhos
 AMT_INCOME_TOTAL: Renda anual
 NAME_INCOME_TYPE: Categoria de renda
