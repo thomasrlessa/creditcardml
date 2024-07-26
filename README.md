@@ -15,18 +15,31 @@ FLAG_OWN_CAR: Possui carro
 FLAG_OWN_REALTY: Possui imóvel
 
 CNT_CHILDREN: Número de filhos
+
 AMT_INCOME_TOTAL: Renda anual
+
 NAME_INCOME_TYPE: Categoria de renda
+
 NAME_EDUCATION_TYPE: Nível de educação
+
 NAME_FAMILY_STATUS: Estado civil
+
 NAME_HOUSING_TYPE: Tipo de moradia
+
 DAYS_BIRTH: Idade (em dias, contando para trás a partir do dia atual)
+
 DAYS_EMPLOYED: Data de início do emprego (em dias, contando para trás a partir do dia atual)
+
 FLAG_MOBIL: Possui telefone móvel
+
 FLAG_WORK_PHONE: Possui telefone de trabalho
+
 FLAG_PHONE: Possui telefone
+
 FLAG_EMAIL: Possui e-mail
+
 OCCUPATION_TYPE: Ocupação
+
 CNT_FAM_MEMBERS: Tamanho da família
 
 **Preparação dos Dados:**
